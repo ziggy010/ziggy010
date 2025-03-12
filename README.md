@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Risab Tajale</h1>
-<h3 align="center">A passionate python developer from Nepal!</h3>
+<h3 align="center">A passionate data engineer from Nepal!</h3>
 
 <p align="left"> <a href="https://twitter.com/risab_tajale" target="blank"><img src="https://img.shields.io/twitter/follow/risab_tajale?logo=twitter&style=for-the-badge" alt="risab_tajale" /></a> </p>
 
-- 🔭 I’m currently working on **Python**
+- 🔭 I’m currently working as **Data Engineering**
 
-- 🌱 I’m currently learning **AI, web scrapping, automation.**
+- 🌱 I’m currently learning **Data Engineering, AI, web scrapping, automation.**
 
-- 💬 Ask me about **Python, Flutter, web development, Crypto!**
+- 💬 Ask me about **Data Engineering, SQL, Python, AWS, Snowflake, Snowpipe, Apache Spark, Flutter, web development, Crypto!**
 
 - 📫 How to reach me **tajale01@gmail.com**
 
